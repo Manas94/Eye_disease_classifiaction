@@ -1,1 +1,1 @@
-# Eye_disease_classifiaction
+# Eye_disease_classification
